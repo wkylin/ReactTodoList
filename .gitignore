@@ -2,8 +2,8 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
+/.
+.pnp.jspnp
 
 # testing
 /coverage
@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea
+.idea/inspectionProfiles/
+.idea/vcs.xml
